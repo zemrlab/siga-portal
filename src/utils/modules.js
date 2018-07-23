@@ -19,7 +19,7 @@ export default {
 
   3: {
     name: 'Estadísticas',
-    url: 'https://xbaxtian.github.io/front-estadisticas-sigap',
+    url: 'https://sigap-dashboard.herokuapp.com/',
     icon: "stats"
   },
 
@@ -31,13 +31,13 @@ export default {
 
   2: {
     name: 'Control de Recibos',
-    url: 'https://modulo-control-recibos.herokuapp.com',
+    url: 'https://sigap-testing-control-recibos.herokuapp.com',
     icon: "list-alt"
   },
 
   4: {
     name: 'Estado de Pagos',
-    url: 'http://modulo-alumno-ui.herokuapp.com',
+    url: 'http://sigap-consultarecibos.herokuapp.com',
     icon: "usd"
   },
 };
